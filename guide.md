@@ -16,4 +16,4 @@ Depedência usada para ajustar o tamanho do texto de acordo com o tamanho no qua
 
 Obs: Não esqueça dos atributos nomeados!
 
-parei em: 1:18:33
+parei em: 35:50
